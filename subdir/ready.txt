@@ -2,3 +2,7 @@
 * Summer
 * Fall
 * Winter
+
+1) Mango
+2) Pineapple
+3) Strawberry
